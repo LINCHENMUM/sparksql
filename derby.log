@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 20 16:12:42 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015a-edfe-75a6-00001cdb5e58 
+on database directory /home/cloudera/workspace/sparksql/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@20b76faf 
+Loaded from file:/home/cloudera/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_67-b01
+user.dir=/home/cloudera/workspace/sparksql
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-573.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
